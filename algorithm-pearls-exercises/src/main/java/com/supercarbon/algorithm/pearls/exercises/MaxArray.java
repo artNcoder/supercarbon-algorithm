@@ -6,12 +6,11 @@ public class MaxArray {
 	 * @Title: main
 	 * @Description: TODO
 	 * @param args
-	 * void
+	 * @return void
 	 * @throws
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
